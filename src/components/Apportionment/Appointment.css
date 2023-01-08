@@ -1,0 +1,83 @@
+.add-appointment .card-body {
+    display: none;
+}
+
+.apt-addheading {
+    cursor: pointer;
+    user-select: none;
+}
+
+.appointment-list {
+    font-size: 1.1em;
+}
+
+.appointment-list .pet-item {
+    border-bottom: 1px dotted gray;
+}
+
+.appointment-list .pet-item:last-child {
+    border-bottom: none;
+}
+
+.appointment-list .pet-name {
+    font-weight: 600;
+    color: #337ab7;
+    font-size: 2.3em;
+    line-height: 100%;
+}
+
+.appointment-list .label-item {
+    font-weight: 600;
+    color: #667b82;
+    font-size: 16px;
+}
+
+.appointment-list .apt-date {
+    font-style: italic;
+    font-size: 18px;
+}
+
+.appointment-list .apt-notes {
+    line-height: 120%;
+    font-size: 15px;
+}
+
+.dropdown-item.active,
+.dropdown-item:active {
+    background-color: #a9aeb2;
+}
+.add-to-appointment{
+    font-size: 18px !important;
+}
+.apt-addheading svg{
+    color: rgb(255, 15, 127);
+}
+.btn-danger {
+    background-color: #694e51;
+    padding: 10px !important;
+    border-radius: 7px !important;
+}
+.input-group-append{
+    margin-left: 0px !important;
+    height: 42px;
+}
+@media screen and (max-width: 760px){
+    .input-group{
+        width: 79%;
+    }
+}
+@media screen and (max-width: 460px){
+    .input-group{
+        width: 75%;
+    }
+}
+@media screen and (max-width: 360px){
+    .input-group{
+        width: 64%;
+    }
+}
+@media screen and (max-width: 300px){
+    .input-group{
+        width: 54%;
+    }
+}

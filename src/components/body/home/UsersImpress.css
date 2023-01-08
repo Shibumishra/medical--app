@@ -1,0 +1,110 @@
+/* .stats-wrapper{
+    width: 100%;
+    max-width: 1140px;
+    padding: 100px 0;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    justify-content: stretch;
+}
+.stats-item {
+    width: 25%;
+    padding: 0 64px;
+}
+.stats-item i{
+    font-size: 5rem;
+    transition: transform 2s;
+}
+.stats-item i:hover
+.stats-item h3 {
+    font-size: 44px;
+    font-weight: 600;
+    margin: 0;
+}
+.stats-item p {
+    color: #57e3b5;
+    font-size: 2rem;
+    letter-spacing: 0.5px;
+    font-style: italic;
+    margin: 0;
+    font-weight: bold;
+}
+@media (max-width: 900px){
+.stats-wrapper {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+} */
+
+.features_icons{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 100px;
+  }
+  .features_icons .icon-container {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    transition: transform 2s;
+  }
+  .features_icons .icon-container:hover{
+    transform: scale(1.21);
+  }
+  .features_icons .img-wrapper {
+    cursor: pointer;
+    padding: 15px;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: #009688;
+    animation: pulse 3s infinite;
+    position: absolute;
+    /* top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); */
+  }
+  @keyframes pulse {
+    0% {
+      box-shadow: 0 0 0 50px rgba(66, 187, 171, 0);
+    }
+    30% {
+      box-shadow: 0px 1px 0px 3px #5f979430, 0px 0px 0px 25px #99e5e750
+    }
+    70% {
+        box-shadow: 0 0 0 50px rgba(66, 177, 143, 0);
+    }
+    100% {
+     
+      box-shadow: 1px 1px 3px 1px #1aab9330, 0px 0px 0px 100px transparent
+  
+    }
+  }
+  .features_icons .img-wrapper i{
+font-size: 4rem;
+  width: 40px;
+  height: 38px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  }
+  .features_icons .icon-container h4 {
+    color: rgb(27, 25, 25);
+    position: absolute;
+    top: 45%;
+    font-size: 25px;
+  }
+  .features_icons .icon-container p {
+    position: absolute;
+    top: 65%;
+    color: #d39c54;
+    font-size: 2rem;
+    letter-spacing: 0.5px;
+    font-style: italic;
+    font-weight: bold;
+  }
+  

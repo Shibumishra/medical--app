@@ -1,0 +1,105 @@
+.bot {
+    bottom: 0;
+    right: 0;
+    margin: 10px;
+    position: fixed;
+    width: 350px;
+    z-index: 94;
+  }
+  
+  .chatbot-btn {
+    width: 60px;
+    height: 60px;
+    background-color: #0f4d4a;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: fixed;
+    right: 25px;
+    bottom: 25px;
+    border-radius: 50%;
+    box-shadow: none;
+    transition: box-shadow 0.2s ease-in-out;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    z-index: 9;
+  }
+  .chatbot-btn:hover {
+    box-shadow: 0 0px 27px 1.5px rgb(0 0 0 / 20%);
+  }
+  .chatbot-btn:focus {
+    outline: none;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  .img {
+    height: 200px;
+    width: 300px;
+  }
+  .sc-closed-icon {
+    transition: opacity 100ms ease-in-out, transform 100ms ease-in-out;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+  }
+   .sc-open-icon {
+    padding: 20px;
+    box-sizing: border-box;
+    opacity: 1;
+    cursor: pointer;
+  }
+  .sc-open-icon, .sc-closed-icon {
+    width: 60px;
+    height: 60px;
+    position: fixed;
+    right: 25px;
+    bottom: 25px;
+    transition: opacity 100ms ease-in-out, transform 100ms ease-in-out;
+    cursor: pointer;
+  }
+  .ctRNqB, .koBVkt{
+      width: 370px !important;
+      height: calc(100% - 120px) !important;
+      max-height: 590px !important;
+      position: fixed !important;
+      right: 25px !important;
+      bottom: 100px !important;
+      box-sizing: border-box !important;
+      box-shadow: 0px 7px 40px 2px rgb(148 149 150 / 30%) !important;
+      background: white !important;
+      display: flex !important;
+      flex-direction: column !important;
+      justify-content: space-between !important;
+      transition: 0.3s ease-in-out !important;
+      border-radius: 10px !important;
+      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif ;
+  }
+  .eRBBua{
+      min-height: 75px !important;
+      border-top-left-radius: 9px !important;
+      border-top-right-radius: 9px !important;
+      color: white !important;
+      padding: 10px !important;
+      position: relative !important;
+      box-shadow: 0 5px 12px rgb(0 0 0 / 25%) !important;
+      box-sizing: border-box !important;
+      display: flex !important;
+      flex-direction: row !important;
+  }
+  .kbTkxB, .fOxleu{
+    background-color: #4e8cff !important; 
+  }
+  .fKxzia {
+    height: calc(100% - 120px) !important;
+  }
+  .rcw-conversation-container > .rcw-header {
+    background-color: red;
+  }
+  
+  .rcw-message > .rcw-response {
+    background-color: black;
+    color: white;
+  }

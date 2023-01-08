@@ -1,0 +1,341 @@
+.vc_custom_1605747556974 {
+    background-image: url('https://tiahealth.com/wp-content/uploads/2020/11/dotted_bg-blue.png?id=743') !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    padding-top: 60px !important;
+    padding-bottom: 60px !important;
+    box-sizing: border-box;
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 100%;
+}
+
+.online-prescription {
+    display: flex;
+    margin-top: 100px;
+    justify-content: space-evenly;
+}
+
+.wpb_single_image img {
+    height: auto;
+    max-width: 100%;
+    vertical-align: top;
+    border-radius: 50%;
+}
+
+.vc_empty_space {
+    margin-top: 80px;
+    width: 50%;
+}
+
+.vc_empty_space h1 {
+    margin-bottom: 35px;
+    color: #fff !important;
+    font-size: 50px !important;
+    line-height: 60px !important;
+    letter-spacing: -0.5px !important;
+}
+
+.vc_empty_space p {
+    margin-bottom: 35px;
+    color: rgba(255, 255, 255, 0.9);
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.white-solid-button {
+    background: #FE637C !important;
+    color: #FFF;
+    padding: 20px 0;
+    width: 50%;
+    font-size: 18px;
+    line-height: 14px;
+    font-weight: 700;
+    border-radius: 28px;
+    box-shadow: none;
+    border: none;
+    transition: .2s;
+}
+
+.medication-need {
+    display: flex;
+    margin-top: 100px;
+    justify-content: space-evenly;
+    padding-right: 55px;
+    padding-left: 55px;
+    margin-right: auto;
+    margin-left: auto;
+    box-sizing: border-box;
+    padding-bottom: 60px !important;
+    width: 100%;
+}
+
+.medication-need-title {
+    width: 50%;
+}
+
+.medication-need h2 {
+    font-size: 36px !important;
+    line-height: 43px !important;
+    letter-spacing: -0.5px !important;
+    color: #2B2350;
+}
+
+.medication-need-subtitle {
+    width: 50%;
+    margin-top: 20px;
+}
+
+.medication-need p {
+    text-align: left;
+    font-size: 24px !important;
+    line-height: 36px !important;
+    color: #797687 !important;
+    margin-bottom: 15px;
+    font-family: "neuzeit-grotesk", sans-serif !important;
+    font-style: normal;
+    font-weight: 500 !important;
+}
+
+.vc_bg_standard {
+    background-position: right center !important;
+    background-attachment: fixed !important;
+    background-image: url('https://tiahealth.com/wp-content/uploads/2020/09/dotted-bg-right.png?id=143') !important;
+    background-position: 0 0 !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    padding-top: 60px !important;
+    padding-bottom: 60px !important;
+    box-sizing: border-box;
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 100%;
+}
+
+.medication-private {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.medication-private-titles {
+    margin-top: 10px;
+    width: 50%;
+}
+
+.black-header h3 {
+    color: #2B2350 !important;
+    font-family: "Neuzeit Grotesk";
+    font-weight: bold;
+    letter-spacing: 0;
+    font-size: 24px !important;
+    line-height: 34px !important;
+    letter-spacing: -0.5px !important;
+}
+
+.black-header p {
+    margin-bottom: 35px;
+    font-size: 18px;
+    line-height: 28px;
+    color: #797687 !important;
+}
+
+.blue-solid-button button {
+    background: #009FDF !important;
+    color: white;
+    padding: 20px 0;
+    width: 100%;
+    font-size: 18px;
+    line-height: 14px;
+    font-weight: 700;
+    border-radius: 28px;
+    box-shadow: none;
+    border: none;
+    transition: .2s;
+}
+
+
+.elise_sep_holder .elise_sep_line {
+    height: 1px;
+    border-top: 2px solid rgba(0, 0, 0, 0.1);
+    display: block;
+    position: relative;
+    top: 5px;
+    width: 90%;
+    left: 6%;
+}
+
+.medication-online-doctor {
+    display: flex;
+    margin-top: 100px;
+    justify-content: space-evenly;
+    padding-right: 55px;
+    padding-left: 55px;
+    margin-right: auto;
+    margin-left: auto;
+    box-sizing: border-box;
+    padding-bottom: 60px !important;
+    width: 100%;
+}
+
+.online-doctor {
+    width: 50%;
+}
+
+.online-doctor h3 {
+    font-size: 36px !important;
+    line-height: 43px !important;
+    letter-spacing: -0.5px !important;
+    color: #2B2350;
+    font-size: 24px !important;
+    line-height: 34px !important;
+    letter-spacing: -0.5px !important;
+    font-weight: bold;
+    margin-bottom: 35px;
+}
+
+.online-doctor-title {
+    width: 50%;
+}
+
+.online-doctor-title p {
+    font-size: 18px;
+    line-height: 28px;
+    color: #797687 !important;
+    font-weight: 500;
+    margin-top: 21px;
+}
+
+.online-doctor-title ul {
+    padding: 0px 0px 5px 20px !important;
+    font-size: 18px;
+    line-height: 28px;
+    list-style: disc !important;
+}
+
+.online-doctor-title ul li {
+    padding: 10px 0 10px 5px;
+    list-style: disc !important;
+}
+
+.booking-works {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 70%;
+    margin: auto;
+}
+
+.booking-works h1 {
+    font-size: 50px !important;
+    line-height: 60px !important;
+    letter-spacing: -0.5px !important;
+    color: #fff !important;
+    font-weight: 700;
+    text-transform: none;
+    margin-bottom: 45px;
+}
+
+.booking-works h2 {
+    font-size: 36px !important;
+    line-height: 43px !important;
+    letter-spacing: -0.5px !important;
+    color: #fff !important;
+    font-weight: 600;
+    text-transform: none;
+    margin-bottom: 45px;
+}
+
+.booking-works p {
+    font-size: 24px;
+    line-height: 28px;
+    color: rgba(255, 255, 255, 0.9);
+    font-weight: 500;
+}
+
+.ttitle1,
+.ttitle2 {
+    padding-top: 50px;
+}
+
+.ttitle3 {
+    padding-top: 150px;
+}
+
+.subtitle1,
+.subtitle2 {
+    padding-top: 25px;
+}
+
+.subtitle3,
+.subtitle4 {
+    padding-top: 10px;
+}
+
+@media screen and (max-width: 760px) {
+    .online-prescription {
+        flex-wrap: wrap;
+    }
+
+    .vc_empty_space {
+        width: 100%;
+        text-align: center;
+        margin-top: 40px;
+    }
+
+    .medication-need {
+        display: block;
+    }
+
+    .medication-need-title,
+    .medication-need-subtitle {
+        text-align: center;
+        width: 100%;
+    }
+
+    .medication-private {
+        flex-wrap: wrap;
+    }
+
+    .medication-private-titles {
+        width: 100%;
+        margin-left: 20px;
+    }
+
+    .medication-online-doctor {
+        display: block;
+    }
+
+    .online-doctor,
+    .online-doctor-title {
+        width: 100%;
+    }
+
+    .ttitle1,
+    .ttitle2 {
+        padding-top: 10px;
+    }
+
+    .ttitle3 {
+        padding-top: 10px;
+    }
+
+    .subtitle1,
+    .subtitle2 {
+        padding-top: 10px;
+    }
+
+    .subtitle3,
+    .subtitle4 {
+        padding-top: 10px;
+    }
+}
+
+@media screen and (max-width: 460px) {
+    .vc_empty_space h1 {
+        font-size: 35px !important;
+    }
+}

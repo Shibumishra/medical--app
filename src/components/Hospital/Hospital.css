@@ -1,0 +1,178 @@
+.c-guided-filter+.c-guided-filter, .c-guided-filter+.o-card--separated, .o-card--separated+.c-guided-filter, .o-card--separated+.o-card--separated {
+    margin-top: 10px;
+}
+
+.c-card-reach, .c-card-reach--branding, .c-card-reach--generic, .c-card-reach--plus, .c-list-card {
+    min-width: 760px;
+}
+.c-guided-filter, .o-card--separated {
+    margin-top: 0;
+}
+.o-card {
+    width: 100%;
+}
+.c-grid--line .c-grid-list, .insurance__section--benefit__icon, .u-spacer--bottom-less {
+    margin-bottom: 8px;
+}
+.pure-g {
+    letter-spacing: -.31em;
+    *letter-spacing: normal;
+    *word-spacing: -.43em;
+    text-rendering: optimizespeed;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    flex-flow: row wrap;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    -ms-flex-flow: row wrap;
+    -ms-align-content: flex-start;
+    -ms-flex-line-pack: start;
+    align-content: flex-start;
+}
+.pure-u-3-4, .pure-u-18-24 {
+    width: 75%;
+    *width: 74.969%;
+}
+.o-media, .o-media__body {
+    overflow: hidden;
+    zoom: 1;
+}
+.o-media {
+    display: table;
+}
+.o-media__object.img-thumbnail {
+    max-width: none;
+}
+.c-card__photo {
+    width: 100px;
+}
+.c-card__photo .LazyLoad {
+    overflow: hidden;
+}
+.c-card__photo img {
+    width: 100px;
+    max-width: 100px;
+}
+.o-media--left, .o-media--right, .o-media__body {
+    display: table-cell;
+    vertical-align: top;
+}
+.o-media__body {
+    width: 10000px;
+}
+.o-media, .o-media__body {
+    overflow: hidden;
+    zoom: 1;
+}
+.c-card__middle, .c-card__middle--base2, .u-cushion--right {
+    padding-right: 16px;
+}
+.c-btn--light, .c-btn--light-medium, .c-btn--light-small, .c-btn--link, .listing-doctor-card .view-profile, .u-color--primary {
+    color: #14bef0;
+}
+.c-card-info__item {
+    max-width: 440px;
+}
+.c-paginator li:not(:first-child), .u-spacer--left-thin {
+    margin-left: 4px;
+}
+.c-card-info+.c-card-info, .c-card-info__item+.c-card-info__item, .c-mini-card .c-mini-card__cta, .u-spacer--top-less {
+    margin-top: 8px;
+}
+.c-card-info__item {
+    max-width: 440px;
+}
+.c-carousel__item, .c-carousel__lazy {
+    margin-right: 8px;
+    margin-bottom: 8px;
+}
+.c-carousel__item, .c-carousel__lazy {
+    margin-right: 8px;
+    margin-bottom: 8px;
+}
+.c-carousel__item {
+    display: inline-block;
+    width: 36px;
+    height: 36px;
+    border-radius: 5px;
+    cursor: pointer;
+    vertical-align: top;
+}
+.pure-u-1-4, .pure-u-6-24 {
+    width: 25%;
+    *width: 24.969%;
+}
+.c-grid--line .c-grid-list, .insurance__section--benefit__icon, .u-spacer--bottom-less {
+    margin-bottom: 8px;
+}
+.common__star-rating, .common__star-rating--small {
+    display: inline-block;
+    font-size: 16px;
+    color: #01a400;
+    position: relative;
+    background-color: #f0f0f5;
+    padding: 3px 0 3px 3px;
+    margin-right: 3px;
+    border-radius: 3px;
+}
+.common__star-rating__value {
+    font-weight: 700;
+    font-size: 14px;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+.c-card__icon, .insurance-carousel__next, .insurance-carousel__prev {
+    vertical-align: -1px;
+}
+.c-card__icon, .c-grid--line .c-grid-list, .insurance-carousel__next, .insurance-carousel__prev, .u-spacer--right-thin {
+    margin-right: 4px;
+}
+.u-cushion--top-less {
+    padding-top: 8px;
+}
+.pure-g {
+    letter-spacing: -.31em;
+    *letter-spacing: normal;
+    *word-spacing: -.43em;
+    text-rendering: optimizespeed;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    flex-flow: row wrap;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    -ms-flex-flow: row wrap;
+    -ms-align-content: flex-start;
+    -ms-flex-line-pack: start;
+    align-content: flex-start;
+}
+.o-media, .o-media__body {
+    overflow: hidden;
+    zoom: 1;
+}
+.o-media {
+    display: table;
+}
+.o-media--middle {
+    vertical-align: middle;
+}
+.pure-u-3-4, .pure-u-18-24 {
+    width: 75%;
+    *width: 74.969%;
+}
+.c-paginator, .u-t-right {
+    text-align: right;
+}
+.pure-u-1, .pure-u-1-1, .pure-u-5-5, .pure-u-24-24 {
+    width: 100%;
+}
+.u-bold {
+    font-weight: 700;
+}
+.c-btn--dark-medium, .consult-banner .chat-now {
+    width: 212px;
+    height: 40px;
+    padding: 4px 0;
+}
+.pure-u-1, .pure-u-1-1, .pure-u-5-5, .pure-u-24-24 {
+    width: 100%;
+}

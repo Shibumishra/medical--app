@@ -1,0 +1,48 @@
+.faq {
+    text-align: center;
+}
+
+.faq h1:before {
+    content: '';
+    position: absolute;
+    top: 100;
+    background-color: #EC6EAD;
+    height: 3px;
+    width: 120px;
+    margin-left: -20px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+.faq {
+    margin-top: 70px;
+}
+
+.faq-main {
+    padding: 50px 50px;
+    margin-left: 40px;
+}
+
+::-webkit-details-marker {
+    float: right;
+    margin-top: 3px;
+}
+
+.faq details {
+    padding: 5px 20px;
+    border-radius: 7px;
+    margin-top: 15px;
+    cursor: pointer;
+    letter-spacing: 1px;
+}
+
+.faq summary {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.faq details p {
+    padding: 20px 20px;
+    font-size: 17px;
+    font-weight: 500;
+}

@@ -1,0 +1,10 @@
+.red-text {
+    color: red;
+  }
+  .modal-backdrop {
+    z-index: 999 !important;
+    
+}
+.modal{
+  top: 100px !important; 
+}
